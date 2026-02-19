@@ -1,2 +1,4 @@
 # consent
-I consent to receiving sms messages - opt-in
+I Jesse Wells give myself consent to receive text messages
+
+[x] Opt-In
